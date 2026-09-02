@@ -11,6 +11,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2236-root-equals-sum-of-children](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2236-root-equals-sum-of-children](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
