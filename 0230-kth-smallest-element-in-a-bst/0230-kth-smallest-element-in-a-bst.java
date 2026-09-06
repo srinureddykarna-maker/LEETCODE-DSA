@@ -33,6 +33,7 @@ class Solution {
         count ++;
         if(count==k){
                result = root.val;
+               return;
         }
 
         inorder(root.right);
