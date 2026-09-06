@@ -15,6 +15,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0662-maximum-width-of-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2236-root-equals-sum-of-children](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -59,6 +60,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0662-maximum-width-of-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2236-root-equals-sum-of-children](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -110,4 +112,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
