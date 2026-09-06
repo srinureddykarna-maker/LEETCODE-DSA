@@ -4,6 +4,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -20,6 +21,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -44,6 +46,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
@@ -95,4 +98,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
