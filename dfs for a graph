@@ -1,0 +1,25 @@
+class Solution {
+    public ArrayList<Integer> dfs(ArrayList<ArrayList<Integer>> adj) {
+
+        ArrayList<Integer> dfs = new ArrayList<>();
+        boolean[] vis = new boolean[adj.size()];
+
+        dfs(0, adj, vis, dfs);
+
+        return dfs;
+    }
+
+    void dfs(int node, ArrayList<ArrayList<Integer>> adj,
+             boolean[] vis, ArrayList<Integer> dfs) {
+
+        vis[node] = true;
+        dfs.add(node);
+
+        for (Integer it : adj.get(node)) {
+
+            if (!vis[it]) {
+                dfs(it, adj, vis, dfs);
+            }
+        }
+    }
+}
