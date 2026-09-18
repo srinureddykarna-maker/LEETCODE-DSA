@@ -36,6 +36,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0662-maximum-width-of-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1020-number-of-enclaves/) | Medium |
@@ -51,6 +52,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0542-01-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0542-01-matrix/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0994-rotting-oranges/) | Medium |
@@ -151,5 +153,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1020-number-of-enclaves/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
