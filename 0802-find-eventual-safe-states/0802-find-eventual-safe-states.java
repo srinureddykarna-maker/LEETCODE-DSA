@@ -3,28 +3,30 @@ class Solution {
 
         int V = graph.length;
 
-        
+        // Reverse graph
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
 
         for (int i = 0; i < V; i++) {
             adj.add(new ArrayList<>());
         }
 
-        int[] outdegree = new int[V];
+        int[] indegree = new int[V];
 
+        // Build reverse graph
         for (int u = 0; u < V; u++) {
 
-            outdegree[u] = graph[u].length;
-
             for (int v : graph[u]) {
+
                 adj.get(v).add(u);
+                indegree[u]++;
             }
         }
 
         Queue<Integer> q = new ArrayDeque<>();
 
+        // Terminal nodes
         for (int i = 0; i < V; i++) {
-            if (outdegree[i] == 0) {
+            if (indegree[i] == 0) {
                 q.add(i);
             }
         }
@@ -39,9 +41,9 @@ class Solution {
 
             for (int prev : adj.get(node)) {
 
-                outdegree[prev]--;
+                indegree[prev]--;
 
-                if (outdegree[prev] == 0) {
+                if (indegree[prev] == 0) {
                     q.add(prev);
                 }
             }
