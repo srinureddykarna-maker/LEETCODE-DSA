@@ -33,6 +33,7 @@
 | [0130-surrounded-regions](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -52,6 +53,7 @@
 | [0130-surrounded-regions](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0542-01-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0542-01-matrix/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -163,6 +165,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Graph Coloring
@@ -177,6 +180,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
