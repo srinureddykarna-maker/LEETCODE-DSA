@@ -1,125 +1,68 @@
 class Solution {
-
-    public List<List<String>> findLadders(
-            String beginWord,
-            String endWord,
-            List<String> wordList) {
-
-        Set<String> st = new HashSet<>(wordList);
-
-        List<List<String>> ans = new ArrayList<>();
-
-        // If endWord is not present, no answer
-        if (!st.contains(endWord)) {
-            return ans;
+    Map<String,Integer>map;
+    String b ;
+    List<List<String>>ans;
+    public void dfs(String word,List<String> seq){
+        if(word.equals(b)){
+            List<String> dup = new ArrayList<>(seq);
+            Collections.reverse(dup);
+            ans.add(dup);
+            return;
         }
-
-        // parent[word] = all previous words that can reach word
-        Map<String, List<String>> parent = new HashMap<>();
-
+        int steps = map.get(word);
+        int sz = word.length();
+        for(int i=0;i<sz;i++){
+            for(char ch = 'a';ch<='z';ch++){
+                char replacedcharArray[] = word.toCharArray();
+                    replacedcharArray[i] = ch;
+                    String replacedword = new String(replacedcharArray);
+                    if(map.containsKey(replacedword) && map.get(replacedword)+1 == steps){
+                        seq.add(replacedword);
+                        dfs(replacedword,seq);
+                        seq.remove(seq.size()-1);
+        
+                    }
+            }
+        }
+    }
+    public List<List<String>> findLadders(String beginWord, String endWord, List<String> wordList) {
+        int n = wordList.size();
+        Set<String> s = new HashSet<>();
+        for(int i=0;i<n;i++){
+            s.add(wordList.get(i));
+        }
+        map = new HashMap<>();
+        b = beginWord;
         Queue<String> q = new LinkedList<>();
         q.add(beginWord);
-
-        Set<String> visited = new HashSet<>();
-        visited.add(beginWord);
-
-        boolean found = false;
-
-        while (!q.isEmpty() && !found) {
-
-            int size = q.size();
-
-            // Words visited in THIS level
-            Set<String> usedThisLevel = new HashSet<>();
-
-            for (int x = 0; x < size; x++) {
-
-                String word = q.poll();
-
-                for (int i = 0; i < word.length(); i++) {
-
-                    char[] arr = word.toCharArray();
-
-                    for (char ch = 'a'; ch <= 'z'; ch++) {
-
-                        arr[i] = ch;
-
-                        String newWord = new String(arr);
-
-                        if (!st.contains(newWord)) {
-                            continue;
-                        }
-
-                        // First time seeing this word
-                        if (!visited.contains(newWord)) {
-
-                            visited.add(newWord);
-                            usedThisLevel.add(newWord);
-
-                            q.add(newWord);
-
-                            parent.putIfAbsent(
-                                    newWord,
-                                    new ArrayList<>()
-                            );
-
-                            parent.get(newWord).add(word);
-
-                            if (newWord.equals(endWord)) {
-                                found = true;
-                            }
-                        }
-
-                        // Same level can have another parent
-                        else if (usedThisLevel.contains(newWord)) {
-
-                            parent.get(newWord).add(word);
-                        }
+        map.put(beginWord,1);
+        s.remove(beginWord);
+        while(!q.isEmpty()){
+            String word = q.peek();
+            int steps = map.get(word);
+            q.remove();
+            if(word.equals(endWord)) break;
+            for(int i=0;i<word.length();i++){
+                for(char c = 'a';c<='z';c++){
+                    char replacedcharArray[] = word.toCharArray();
+                    replacedcharArray[i] = c;
+                    String replacedword = new String(replacedcharArray);
+                    if(s.contains(replacedword)==true){
+                        q.add(replacedword);
+                        s.remove(replacedword);
+                        map.put(replacedword,steps+1);
                     }
                 }
             }
         }
-
-        // Build paths using DFS
-        List<String> path = new ArrayList<>();
-        path.add(endWord);
-
-        dfs(endWord, beginWord, parent, path, ans);
-
+        ans = new ArrayList<>();
+        if(map.containsKey(endWord)==true){
+            List<String>seq = new ArrayList<>();
+            seq.add(endWord);
+            dfs(endWord,seq);
+        }
         return ans;
-    }
 
-
-    private void dfs(
-            String word,
-            String beginWord,
-            Map<String, List<String>> parent,
-            List<String> path,
-            List<List<String>> ans) {
-
-        // Reached beginning
-        if (word.equals(beginWord)) {
-
-            List<String> result = new ArrayList<>(path);
-
-            Collections.reverse(result);
-
-            ans.add(result);
-
-            return;
-        }
-
-        if (!parent.containsKey(word)) {
-            return;
-        }
-
-        for (String previous : parent.get(word)) {
-
-            path.add(previous);
-
-            dfs(previous, beginWord, parent, path, ans);
-
-            path.remove(path.size() - 1);
-        }
+        
     }
 }
