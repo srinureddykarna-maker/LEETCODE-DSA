@@ -65,6 +65,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -160,6 +162,7 @@
 | [0542-01-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
