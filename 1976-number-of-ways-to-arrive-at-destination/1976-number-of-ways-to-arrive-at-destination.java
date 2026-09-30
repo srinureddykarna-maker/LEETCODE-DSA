@@ -40,13 +40,12 @@ class Solution {
 
         pq.add(new pair(0, 0));
 
-        long MOD = 1000000007;
+        int MOD = 1000000007;
 
         while (!pq.isEmpty()) {
 
             int node = pq.peek().node;
             long dis = pq.peek().dist;
-
             pq.remove();
 
             for (int[] edge : adj.get(node)) {
@@ -65,7 +64,7 @@ class Solution {
                 } else if (dis + adjdis == dist[adjnode]) {
 
                     ways[adjnode] =
-                        (int)((ways[adjnode] + (long)ways[node]) % MOD);
+                        (ways[adjnode] + ways[node]) % MOD;
                 }
             }
         }
