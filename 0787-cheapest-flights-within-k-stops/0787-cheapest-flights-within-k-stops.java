@@ -29,11 +29,13 @@ class Solution {
 
         Queue<tuple> q = new LinkedList<>();
 
-        int[] dist = new int[n];
+        int[][] dist = new int[k + 2][n];
 
-        Arrays.fill(dist, Integer.MAX_VALUE);
+        for (int i = 0; i < k + 2; i++) {
+            Arrays.fill(dist[i], Integer.MAX_VALUE);
+        }
 
-        dist[src] = 0;
+        dist[0][src] = 0;
 
         q.add(new tuple(0, src, 0));
 
@@ -49,17 +51,14 @@ class Solution {
                 continue;
             }
 
-            // Copy current distances
-            int[] temp = dist.clone();
-
             for (int[] it : adj.get(node)) {
 
                 int nextnode = it[0];
                 int price = it[1];
 
-                if (dis + price < temp[nextnode]) {
+                if (dis + price < dist[stop + 1][nextnode]) {
 
-                    temp[nextnode] = dis + price;
+                    dist[stop + 1][nextnode] = dis + price;
 
                     q.add(new tuple(
                         stop + 1,
@@ -68,14 +67,14 @@ class Solution {
                     ));
                 }
             }
-
-            dist = temp;
         }
 
-        if (dist[dst] == Integer.MAX_VALUE) {
-            return -1;
+        int ans = Integer.MAX_VALUE;
+
+        for (int stop = 0; stop <= k + 1; stop++) {
+            ans = Math.min(ans, dist[stop][dst]);
         }
 
-        return dist[dst];
+        return ans == Integer.MAX_VALUE ? -1 : ans;
     }
 }
