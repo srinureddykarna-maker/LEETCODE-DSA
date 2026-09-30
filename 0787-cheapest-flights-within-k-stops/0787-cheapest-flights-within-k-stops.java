@@ -29,25 +29,31 @@ class Solution {
 
         Queue<tuple> q = new LinkedList<>();
 
-        int[][] dist = new int[k + 2][n];
+        int[] dist = new int[n];
+        Arrays.fill(dist, Integer.MAX_VALUE);
 
-        for (int i = 0; i < k + 2; i++) {
-            Arrays.fill(dist[i], Integer.MAX_VALUE);
-        }
-
-        dist[0][src] = 0;
+        dist[src] = 0;
 
         q.add(new tuple(0, src, 0));
 
         while (!q.isEmpty()) {
 
-            int stop = q.peek().stop;
-            int node = q.peek().node;
-            int dis = q.peek().dis;
+            tuple curr = q.remove();
 
-            q.remove();
+            int stop = curr.stop;
+            int node = curr.node;
+            int dis = curr.dis;
 
-            if (stop > k) {
+            if (stop > k + 1) {
+                continue;
+            }
+
+            if (node == dst) {
+                dist[dst] = Math.min(dist[dst], dis);
+                continue;
+            }
+
+            if (stop == k + 1) {
                 continue;
             }
 
@@ -56,25 +62,21 @@ class Solution {
                 int nextnode = it[0];
                 int price = it[1];
 
-                if (dis + price < dist[stop + 1][nextnode]) {
+                int newDis = dis + price;
 
-                    dist[stop + 1][nextnode] = dis + price;
+                if (newDis < dist[nextnode]) {
+
+                    dist[nextnode] = newDis;
 
                     q.add(new tuple(
                         stop + 1,
                         nextnode,
-                        dis + price
+                        newDis
                     ));
                 }
             }
         }
 
-        int ans = Integer.MAX_VALUE;
-
-        for (int stop = 0; stop <= k + 1; stop++) {
-            ans = Math.min(ans, dist[stop][dst]);
-        }
-
-        return ans == Integer.MAX_VALUE ? -1 : ans;
+        return dist[dst] == Integer.MAX_VALUE ? -1 : dist[dst];
     }
 }
