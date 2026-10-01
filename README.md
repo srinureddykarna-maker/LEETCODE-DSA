@@ -143,12 +143,14 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0155-min-stack/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0155-min-stack](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0155-min-stack/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
