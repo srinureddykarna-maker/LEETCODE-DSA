@@ -109,6 +109,7 @@
 | [0127-word-ladder](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0127-word-ladder/) | Hard |
 | [0205-isomorphic-strings](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -163,6 +164,7 @@
 | [0242-valid-anagram](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
@@ -260,6 +262,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Simulation
