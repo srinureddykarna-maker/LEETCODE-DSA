@@ -117,6 +117,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1657-determine-if-two-strings-are-close](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -125,6 +126,7 @@
 | [0242-valid-anagram](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1657-determine-if-two-strings-are-close](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +178,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +277,7 @@
 | [0383-ransom-note](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1657-determine-if-two-strings-are-close](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
