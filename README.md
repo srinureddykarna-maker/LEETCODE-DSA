@@ -103,6 +103,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0126-word-ladder-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0126-word-ladder-ii/) | Hard |
@@ -119,6 +120,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -134,6 +136,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0130-surrounded-regions/) | Medium |
@@ -156,6 +159,7 @@
 | [0013-roman-to-integer](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0126-word-ladder-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0126-word-ladder-ii/) | Hard |
