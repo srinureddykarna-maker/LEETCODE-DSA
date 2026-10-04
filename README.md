@@ -149,6 +149,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0126-word-ladder-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0127-word-ladder/) | Hard |
@@ -283,10 +284,27 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0344-reverse-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
