@@ -1,17 +1,27 @@
+import java.util.HashMap;
+
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        int[] freq = new int[26];
-        for(int i=0;i<magazine.length();i++){
+
+        HashMap<Character, Integer> map = new HashMap<>();
+
+        // Count characters in magazine
+        for(int i = 0; i < magazine.length(); i++) {
             char ch = magazine.charAt(i);
-            freq[ch-'a']++;
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
-        for(int i=0;i<ransomNote.length();i++){
+
+        // Use characters for ransomNote
+        for(int i = 0; i < ransomNote.length(); i++) {
             char ch = ransomNote.charAt(i);
-            if(freq[ch - 'a']==0){
+
+            if(!map.containsKey(ch) || map.get(ch) == 0) {
                 return false;
             }
-            freq[ch - 'a']--;
+
+            map.put(ch, map.get(ch) - 1);
         }
+
         return true;
     }
 }
