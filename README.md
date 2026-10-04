@@ -107,6 +107,7 @@
 | [0126-word-ladder-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0127-word-ladder/) | Hard |
 | [0242-valid-anagram](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -154,6 +155,7 @@
 | [0242-valid-anagram](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -248,6 +250,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -282,4 +285,8 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0344-reverse-string/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
