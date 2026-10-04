@@ -107,6 +107,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0126-word-ladder-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0127-word-ladder/) | Hard |
+| [0205-isomorphic-strings](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
@@ -158,6 +159,7 @@
 | [0125-valid-palindrome](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0126-word-ladder-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0127-word-ladder/) | Hard |
+| [0205-isomorphic-strings](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0344-reverse-string/) | Easy |
