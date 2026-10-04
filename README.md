@@ -113,6 +113,7 @@
 | [0242-valid-anagram](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
@@ -179,6 +180,7 @@
 | [0383-ransom-note](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0567-permutation-in-string/) | Medium |
@@ -275,6 +277,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
