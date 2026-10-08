@@ -231,6 +231,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0392-is-subsequence](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0542-01-matrix/) | Medium |
@@ -372,6 +373,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0070-climbing-stairs](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -380,5 +382,6 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
