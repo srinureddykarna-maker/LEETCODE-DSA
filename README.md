@@ -159,6 +159,7 @@
 | [0994-rotting-oranges](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1929-concatenation-of-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Divide and Conquer
@@ -386,4 +387,8 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 <!---LeetCode Topics End-->
