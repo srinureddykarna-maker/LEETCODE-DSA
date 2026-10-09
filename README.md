@@ -148,6 +148,7 @@
 | [0014-longest-common-prefix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0078-subsets](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0078-subsets/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0130-surrounded-regions/) | Medium |
@@ -321,6 +322,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0078-subsets/) | Medium |
 | [0126-word-ladder-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0126-word-ladder-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -393,4 +395,8 @@
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
