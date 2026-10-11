@@ -155,6 +155,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0198-house-robber](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0542-01-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
@@ -241,6 +242,7 @@
 | [0053-maximum-subarray](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0542-01-matrix/) | Medium |
