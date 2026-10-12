@@ -132,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
@@ -153,6 +154,7 @@
 | [0049-group-anagrams](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0078-subsets/) | Medium |
+| [0088-merge-sorted-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -357,6 +359,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0283-move-zeroes/) | Easy |
