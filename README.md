@@ -154,6 +154,7 @@
 | [0039-combination-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0039-combination-sum/) | Medium |
 | [0049-group-anagrams](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0063-unique-paths-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0078-subsets](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -237,6 +238,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0542-01-matrix/) | Medium |
 | [0827-making-a-large-island](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0827-making-a-large-island/) | Hard |
@@ -249,6 +251,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0198-house-robber/) | Medium |
