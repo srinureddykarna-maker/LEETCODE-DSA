@@ -399,6 +399,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0070-climbing-stairs/) | Easy |
