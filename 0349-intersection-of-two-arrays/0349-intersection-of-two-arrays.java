@@ -1,36 +1,24 @@
-import java.util.*;
-
 class Solution {
     static int[] intersection(int[] arr1, int[] arr2) {
+        HashSet<Integer> set = new HashSet<>();
 
-        Arrays.sort(arr1);
-        Arrays.sort(arr2);
+        for (int num : arr1) {
+            set.add(num);
+        }
 
-        ArrayList<Integer> ans = new ArrayList<>();
+        HashSet<Integer> ans = new HashSet<>();
 
-        int i = 0;
-        int j = 0;
-
-        while (i < arr1.length && j < arr2.length) {
-
-            if (arr1[i] < arr2[j]) {
-                i++;
-            } else if (arr1[i] > arr2[j]) {
-                j++;
-            } else {
-                // Add only unique elements
-                if (ans.isEmpty() || ans.get(ans.size() - 1) != arr1[i]) {
-                    ans.add(arr1[i]);
-                }
-                i++;
-                j++;
+        for (int num : arr2) {
+            if (set.contains(num)) {
+                ans.add(num);
             }
         }
 
-        // Convert ArrayList<Integer> to int[]
         int[] result = new int[ans.size()];
-        for (int k = 0; k < ans.size(); k++) {
-            result[k] = ans.get(k);
+        int i = 0;
+
+        for (int num : ans) {
+            result[i++] = num;
         }
 
         return result;
