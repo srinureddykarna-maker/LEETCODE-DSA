@@ -243,6 +243,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0278-first-bad-version](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -468,4 +469,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
