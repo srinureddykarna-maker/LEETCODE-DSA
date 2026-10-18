@@ -414,10 +414,12 @@
 | [0062-unique-paths](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -434,6 +436,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0078-subsets/) | Medium |
+| [0231-power-of-two](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0231-power-of-two/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
