@@ -177,6 +177,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0542-01-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0704-binary-search/) | Easy |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0724-find-pivot-index](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -246,6 +247,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0704-binary-search](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0704-binary-search/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
