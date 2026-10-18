@@ -116,6 +116,7 @@
 | [0205-isomorphic-strings](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -136,6 +137,7 @@
 | [0088-merge-sorted-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -169,6 +171,7 @@
 | [0213-house-robber-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0542-01-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
@@ -235,6 +238,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -379,6 +383,7 @@
 | [0283-move-zeroes](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0567-permutation-in-string/) | Medium |
