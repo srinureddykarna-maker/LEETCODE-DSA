@@ -116,6 +116,7 @@
 | [0205-isomorphic-strings](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -137,6 +138,7 @@
 | [0088-merge-sorted-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -171,6 +173,7 @@
 | [0213-house-robber-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0542-01-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -191,6 +194,7 @@
 | [0053-maximum-subarray](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +341,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -359,6 +364,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Dijkstra's Algorithm
@@ -452,4 +458,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0202-happy-number/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
