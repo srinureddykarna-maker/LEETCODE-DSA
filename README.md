@@ -164,6 +164,7 @@
 | [0120-triangle](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0130-surrounded-regions](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0137-single-number-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0198-house-robber](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -436,6 +437,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0078-subsets/) | Medium |
+| [0137-single-number-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0231-power-of-two/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
