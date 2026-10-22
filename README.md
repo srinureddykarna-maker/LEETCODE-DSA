@@ -180,6 +180,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0137-single-number-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0137-single-number-ii/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -266,6 +267,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0278-first-bad-version](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -416,6 +418,7 @@
 | [0088-merge-sorted-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0344-reverse-string/) | Easy |
