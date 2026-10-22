@@ -162,6 +162,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0039-combination-sum/) | Medium |
@@ -412,6 +413,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0075-sort-colors/) | Medium |
@@ -537,4 +539,8 @@
 | [0496-next-greater-element-i](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0739-daily-temperatures/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
