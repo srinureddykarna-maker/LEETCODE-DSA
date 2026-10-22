@@ -187,6 +187,7 @@
 | [0347-top-k-frequent-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0542-01-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -256,6 +257,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0155-min-stack](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0739-daily-temperatures/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -530,5 +532,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
