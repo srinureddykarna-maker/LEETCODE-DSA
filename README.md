@@ -464,6 +464,7 @@
 | [0202-happy-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -487,6 +488,7 @@
 | [0078-subsets](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0231-power-of-two/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
