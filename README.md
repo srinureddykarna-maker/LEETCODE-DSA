@@ -51,6 +51,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +210,7 @@
 | [1631-path-with-minimum-effort](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1929-concatenation-of-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +293,7 @@
 | [1020-number-of-enclaves](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +326,7 @@
 | [1020-number-of-enclaves](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
