@@ -202,6 +202,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0827-making-a-large-island](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0827-making-a-large-island/) | Hard |
 | [0912-sort-an-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0912-sort-an-array/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1020-number-of-enclaves/) | Medium |
@@ -289,6 +290,7 @@
 | [0130-surrounded-regions](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0542-01-matrix/) | Medium |
 | [0827-making-a-large-island](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0827-making-a-large-island/) | Hard |
+| [0931-minimum-falling-path-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -312,6 +314,7 @@
 | [0647-palindromic-substrings](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
