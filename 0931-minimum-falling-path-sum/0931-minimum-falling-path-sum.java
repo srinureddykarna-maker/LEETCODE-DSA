@@ -1,45 +1,39 @@
-import java.util.Arrays;
-
 class Solution {
     public int minFallingPathSum(int[][] matrix) {
         int n = matrix.length;
-        int[][] dp = new int[n][n];
+        int m = matrix[0].length;
 
-        for (int[] row : dp) {
-            Arrays.fill(row, Integer.MAX_VALUE);
+        int[][] dp = new int[n][m];
+
+        for (int j = 0; j < m; j++) {
+            dp[0][j] = matrix[0][j];
+        }
+
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+
+                int u = matrix[i][j] + dp[i - 1][j];
+
+                int sl = Integer.MAX_VALUE;
+                if (j > 0) {
+                    sl = matrix[i][j] + dp[i - 1][j - 1];
+                }
+
+                int sr = Integer.MAX_VALUE;
+                if (j < m - 1) {
+                    sr = matrix[i][j] + dp[i - 1][j + 1];
+                }
+
+                dp[i][j] = Math.min(u, Math.min(sl, sr));
+            }
         }
 
         int ans = Integer.MAX_VALUE;
 
-        for (int j = 0; j < n; j++) {
-            ans = Math.min(ans, solve(0, j, matrix, dp));
+        for (int j = 0; j < m; j++) {
+            ans = Math.min(ans, dp[n - 1][j]);
         }
 
         return ans;
-    }
-
-    public int solve(int row, int col, int[][] matrix, int[][] dp) {
-        int n = matrix.length;
-
-        if (col < 0 || col >= n) {
-            return Integer.MAX_VALUE / 2;
-        }
-
-        if (row == n - 1) {
-            return matrix[row][col];
-        }
-
-        if (dp[row][col] != Integer.MAX_VALUE) {
-            return dp[row][col];
-        }
-
-        int down = solve(row + 1, col, matrix, dp);
-        int left = solve(row + 1, col - 1, matrix, dp);
-        int right = solve(row + 1, col + 1, matrix, dp);
-
-        dp[row][col] = matrix[row][col]
-                + Math.min(down, Math.min(left, right));
-
-        return dp[row][col];
     }
 }
