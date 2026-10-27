@@ -1,6 +1,6 @@
 class Solution {
     public String[] createGrid(int m, int n) {
-        String[] ans = new String[m];
+        var ans = new String[m];
 
         ans[0] = ".".repeat(n);
 
