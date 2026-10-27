@@ -1,37 +1,40 @@
 class Solution {
-    public int minFallingPathSum(int[][] matrix) {
-        int n = matrix.length;
-        int m = matrix[0].length;
+    public int minFallingPathSum(int[][] grid) {
+        int n = grid.length;
+        int m = grid[0].length;
 
-        int[][] dp = new int[n][m];
+        int[] prev = new int[m];
 
         for (int j = 0; j < m; j++) {
-            dp[0][j] = matrix[0][j];
+            prev[j] = grid[0][j];
         }
 
         for (int i = 1; i < n; i++) {
-            for (int j = 0; j < m; j++) {
+            int[] curr = new int[m];
 
-                int u = matrix[i][j] + dp[i - 1][j];
+            for (int j = 0; j < m; j++) {
+                int u = grid[i][j] + prev[j];
 
                 int sl = Integer.MAX_VALUE;
                 if (j > 0) {
-                    sl = matrix[i][j] + dp[i - 1][j - 1];
+                    sl = grid[i][j] + prev[j - 1];
                 }
 
                 int sr = Integer.MAX_VALUE;
                 if (j < m - 1) {
-                    sr = matrix[i][j] + dp[i - 1][j + 1];
+                    sr = grid[i][j] + prev[j + 1];
                 }
 
-                dp[i][j] = Math.min(u, Math.min(sl, sr));
+                curr[j] = Math.min(u, Math.min(sl, sr));
             }
+
+            prev = curr;
         }
 
         int ans = Integer.MAX_VALUE;
 
         for (int j = 0; j < m; j++) {
-            ans = Math.min(ans, dp[n - 1][j]);
+            ans = Math.min(ans, prev[j]);
         }
 
         return ans;
