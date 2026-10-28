@@ -1,46 +1,62 @@
-import java.util.*;
-
 class Solution {
     public int minCost(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
 
-        BitSet[][] dp = new BitSet[n][m];
+        boolean[][][] dp = new boolean[n][m][1024];
+        boolean[][] visited = new boolean[n][m];
 
-        return solve(dp, grid, n - 1, m - 1).nextSetBit(0);
+        solve(dp, visited, grid, n - 1, m - 1);
+
+        for (int x = 0; x < 1024; x++) {
+            if (dp[n - 1][m - 1][x]) {
+                return x;
+            }
+        }
+
+        return -1;
     }
 
-    BitSet solve(BitSet[][] dp, int[][] grid, int i, int j) {
+    void solve(boolean[][][] dp, boolean[][] visited,
+               int[][] grid, int i, int j) {
+
+        int n = grid.length;
+        int m = grid[0].length;
+
         if (i < 0 || j < 0) {
-            return new BitSet();
+            return;
         }
 
-        if (dp[i][j] != null) {
-            return dp[i][j];
+        if (visited[i][j]) {
+            return;
         }
 
-        BitSet result = new BitSet();
+        visited[i][j] = true;
 
         if (i == 0 && j == 0) {
-            result.set(grid[0][0]);
-            return dp[i][j] = result;
+            dp[0][0][grid[0][0]] = true;
+            return;
         }
 
-        BitSet up = solve(dp, grid, i - 1, j);
-        BitSet left = solve(dp, grid, i, j - 1);
+        solve(dp, visited, grid, i - 1, j);
+        solve(dp, visited, grid, i, j - 1);
 
-        for (int x = up.nextSetBit(0);
-             x >= 0;
-             x = up.nextSetBit(x + 1)) {
-            result.set(x ^ grid[i][j]);
+        int val = grid[i][j];
+
+        if (i > 0) {
+            for (int x = 0; x < 1024; x++) {
+                if (dp[i - 1][j][x]) {
+                    dp[i][j][x ^ val] = true;
+                }
+            }
         }
 
-        for (int x = left.nextSetBit(0);
-             x >= 0;
-             x = left.nextSetBit(x + 1)) {
-            result.set(x ^ grid[i][j]);
+        if (j > 0) {
+            for (int x = 0; x < 1024; x++) {
+                if (dp[i][j - 1][x]) {
+                    dp[i][j][x ^ val] = true;
+                }
+            }
         }
-
-        return dp[i][j] = result;
     }
 }
