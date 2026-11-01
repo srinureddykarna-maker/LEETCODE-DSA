@@ -190,6 +190,7 @@
 | [0283-move-zeroes](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0525-contiguous-array/) | Medium |
@@ -485,6 +486,7 @@
 | [0202-happy-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0342-power-of-four/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0509-fibonacci-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Recursion
