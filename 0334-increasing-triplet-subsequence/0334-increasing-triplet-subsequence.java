@@ -1,5 +1,9 @@
 class Solution {
     public boolean increasingTriplet(int[] nums) {
+        if (nums == null || nums.length == 0) {
+            throw new IllegalArgumentException("Invalid input");
+        }
+
         int n = nums.length;
         int first = Integer.MAX_VALUE;
         int second = Integer.MAX_VALUE;
