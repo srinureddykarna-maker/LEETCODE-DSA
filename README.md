@@ -189,6 +189,7 @@
 | [0217-contains-duplicate](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0334-increasing-triplet-subsequence](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -574,4 +575,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
