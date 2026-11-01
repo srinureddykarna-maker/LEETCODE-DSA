@@ -589,4 +589,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
