@@ -189,6 +189,7 @@
 | [0217-contains-duplicate](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -282,6 +283,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0278-first-bad-version](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -447,6 +449,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -516,6 +519,7 @@
 | [0078-subsets](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0231-power-of-two/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0342-power-of-four/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -527,6 +531,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -580,4 +585,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
