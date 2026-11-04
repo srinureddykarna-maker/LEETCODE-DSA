@@ -137,6 +137,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +219,7 @@
 | [1631-path-with-minimum-effort](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1929-concatenation-of-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -332,6 +334,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Union-Find
@@ -397,6 +400,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -427,6 +431,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0912-sort-an-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
@@ -498,6 +503,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
