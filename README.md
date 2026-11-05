@@ -153,6 +153,7 @@
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0912-sort-an-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Binary Lifting
@@ -214,6 +215,7 @@
 | [0994-rotting-oranges](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -294,6 +296,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0704-binary-search](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0704-binary-search/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Matrix
@@ -465,6 +468,7 @@
 | [0443-string-compression](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0647-palindromic-substrings/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
