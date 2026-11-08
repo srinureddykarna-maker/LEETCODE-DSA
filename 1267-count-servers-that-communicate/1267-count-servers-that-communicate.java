@@ -1,30 +1,25 @@
 class Solution {
     public int countServers(int[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
-        int[] row = new int[n*m];
-        int[] col = new int[n*m];
-        for(int i = 0; i < n; i++) {
-           for(int j = 0; j < m; j++) {
-             if(grid[i][j] == 1) {
-                row[i]++;
-                 col[j]++;
-                 }
-             }
-          }
-          int count = 0;
-
-for(int i = 0; i < n; i++) {
-    for(int j = 0; j < m; j++) {
-        if(grid[i][j] == 1) {
-            if(row[i] > 1 || col[j] > 1) {
-                count++;
+        int m=grid.length;
+        int n=grid[0].length;
+        int[] rows= new int[m];
+        int[] cols= new int[n];
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]==1){
+                    rows[i]++;
+                    cols[j]++;
+                }
             }
         }
-    }
-}
-
-return count;
-        
+        int count=0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]==1&&(rows[i]>1||cols[j]>1)){
+                    count++;
+                }
+            }
+        }
+        return count;
     }
 }
