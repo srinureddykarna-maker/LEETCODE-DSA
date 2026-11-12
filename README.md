@@ -230,6 +230,7 @@
 | [1929-concatenation-of-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
