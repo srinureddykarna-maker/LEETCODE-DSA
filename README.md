@@ -207,6 +207,7 @@
 | [0525-contiguous-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0542-01-matrix](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0704-binary-search/) | Easy |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0724-find-pivot-index](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0724-find-pivot-index/) | Easy |
@@ -412,6 +413,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2747-count-zero-request-servers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
