@@ -227,6 +227,7 @@
 | [1267-count-servers-that-communicate](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -423,6 +424,7 @@
 | [0567-permutation-in-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Counting
@@ -456,6 +458,7 @@
 | [0347-top-k-frequent-elements](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0912-sort-an-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -498,6 +501,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -640,5 +644,10 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 <!---LeetCode Topics End-->
