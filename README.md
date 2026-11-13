@@ -193,6 +193,7 @@
 | [0137-single-number-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0198-house-robber/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -301,6 +302,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0278-first-bad-version](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -414,6 +416,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -545,6 +548,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
