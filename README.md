@@ -214,6 +214,7 @@
 | [0739-daily-temperatures](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0827-making-a-large-island](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0827-making-a-large-island/) | Hard |
+| [0896-monotonic-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
