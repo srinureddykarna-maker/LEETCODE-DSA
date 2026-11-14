@@ -4,10 +4,13 @@ class Solution {
         int n = nums.size();
         int min = Integer.MAX_VALUE;
 
-        for (int i = 0; i < n; i++) {
-            int sum = 0;
+        int i = 0;
 
-            for (int j = i; j < n && j - i + 1 <= r; j++) {
+        while (i < n) {
+            int sum = 0;
+            int j = i;
+
+            while (j < n && j - i + 1 <= r) {
                 sum += nums.get(j);
 
                 int len = j - i + 1;
@@ -15,7 +18,11 @@ class Solution {
                 if (len >= l && sum > 0) {
                     min = Math.min(min, sum);
                 }
+
+                j++;
             }
+
+            i++;
         }
 
         return min == Integer.MAX_VALUE ? -1 : min;
