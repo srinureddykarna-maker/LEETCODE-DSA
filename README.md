@@ -229,6 +229,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -354,6 +355,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -538,6 +540,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Recursion
@@ -560,6 +563,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
