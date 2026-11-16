@@ -282,6 +282,7 @@
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -446,6 +447,7 @@
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1929-concatenation-of-array](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
