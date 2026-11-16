@@ -3,21 +3,21 @@ class Solution {
 
         while (s.length() > k) {
 
-            StringBuilder ans = new StringBuilder();
-            int n = s.length();
+            StringBuilder result = new StringBuilder();
 
-            for (int i = 0; i < n; i += k) {
+            for (int i = 0; i < s.length(); i += k) {
 
                 int sum = 0;
+                int end = Math.min(i + k, s.length());
 
-                for (int j = i; j < Math.min(i + k, n); j++) {
+                for (int j = i; j < end; j++) {
                     sum += s.charAt(j) - '0';
                 }
 
-                ans.append(sum);
+                result.append(sum);
             }
 
-            s = ans.toString();
+            s = result.toString();
         }
 
         return s;
