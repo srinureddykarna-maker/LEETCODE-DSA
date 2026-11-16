@@ -281,6 +281,7 @@
 | [0647-palindromic-substrings](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0721-accounts-merge](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0721-accounts-merge/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -501,6 +502,7 @@
 | [0567-permutation-in-string](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/srinureddykarna-maker/LEETCODE-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
